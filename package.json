@@ -1,5 +1,5 @@
 {
-  "name": "ts-openapi-parser",
+  "name": "trufinol-openapi-parser",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/Trufinol/ts-openapi-parser.git",
