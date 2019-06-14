@@ -1,0 +1,16 @@
+{
+  "name": "ts-openapi-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Trufinol/ts-openapi-parser.git",
+  "author": "nikolay n.verteba@gmail.col",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "bin": {
+    "ts-openapi-parser": "./cli.js"
+  }
+}
